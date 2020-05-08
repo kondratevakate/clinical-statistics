@@ -1,2 +1,2 @@
 # clinical-statistics
-Basic statistical test and canonical machine learning for medical applications
+Basic statistical tests and canonical machine learning for stroke rehabillitation prediction
